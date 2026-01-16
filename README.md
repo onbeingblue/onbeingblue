@@ -1,6 +1,6 @@
 <p align="center"
   
-<a href="https://https://indi.atabook.org//">sign ata</a>   
+<a href="https://https:/indi.atabook.org//">sign ata</a>   
 <p align="center">
 <img src="https://i.postimg.cc/NMkW7B4V/image.png"/>
   
