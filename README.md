@@ -1,7 +1,11 @@
 <p align="center"
+  
+<a href="https://shadoe.atabook.org/">sign ata</a>   
+<p align="center">
+<img src="https://i.postimg.cc/NMkW7B4V/image.png"/>
+  
+<p align="center"
+  
+![](https://komarev.com/ghpvc/?username=silentsaltcookie&color=591b7d&label=+admirers)
 
-![](https://komarev.com/ghpvc/?username=silentsaltcookie&color=3b275c&label=+admirers)
 <p align="center">
-<img src="https://i.postimg.cc/8CTmwVvz/SPOILER-Titelloses-548-20250715114301.webp"/>
-<p align="center">
-<a href="https://shadoe.atabook.org/">sign my ata</a> ‎
